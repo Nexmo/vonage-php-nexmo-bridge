@@ -2,7 +2,7 @@
     "name": "vonage/nexmo-bridge",
     "description": "Provides a bridge for using the Vonage PHP SDK with the older Nexmo namespace",
     "type": "library",
-    "license": "MIT",
+    "license": "BSD-3-Clause",
     "authors": [
         {
             "name": "Chris Tankersley",
